@@ -2,8 +2,7 @@
 <a href="https://devuploads.com/5i9lnjzalx74"><img title="GOTV AND DSTV PREMIUM" src="https://img.shields.io/badge/DSTV & GOTV-h?color=navyblue&style=for-the-badge&logo=DSTV"></a>
 
 
-<a href="<a href="https://devuploads.com/5i9lnjzalx74"><img title="GOTV AND DSTV PREMIUM" src="https://img.shields.io/badge/NETFLIX-h?color=navyblue&style=for-the-badge&logo=DSTV"></a>
-"><img title="NETFLIX" src="https://img.shields.io/badge/DSTV & GOTV-h?color=navyblue&style=for-the-badge&logo=NETFLIX"></a>
+<a href="<a href="https://devuploads.com/5i9lnjzalx74"><img title="NETFLIX" src="https://img.shields.io/badge/NETFLIX-h?color=navyblue&style=for-the-badge&logo=DSTV"></a>
 
 # Facebook_hack
 ###### Powerfull Facebook Bruteforce Attack.
